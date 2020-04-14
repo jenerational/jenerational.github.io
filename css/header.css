@@ -1,0 +1,29 @@
+.neato-header {
+  color: #fcc;
+  min-width: 20%; 
+  max-width: 60%; 
+  padding: 30px;
+  text-align: center;
+  position: fixed;
+  left: 50%;
+  top: 51%;
+  border: 3px solid #fcc;
+  border-top: 3px solid #fcc;
+  margin: 5px;
+}
+
+.neato-header h1 {
+  font-size: 4em;
+  font-family: "Open Sans Condensed";
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+@media (max-width: 768px) {
+    .neato-header h1 {
+        font-size: 10px;
+        line-height: 0.5;
+        margin-bottom: 1em;
+    }
+}
+

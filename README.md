@@ -1,2 +1,2 @@
 # jenerational.github.io
-website
+site
