@@ -27,7 +27,7 @@ p {
 /* LANDING PAGE 
 ------------------------*/ 
 #home {
-  background: url(../img/ice_skate_landing.jpg) no-repeat center center fixed;
+  background: url(../ice_skate_landing.jpg) no-repeat center center fixed;
   height: 100vh;
   width: auto;
   background-position: 0% 0%;
