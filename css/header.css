@@ -1,19 +1,30 @@
+#home {
+  background: url(../IMG_0765.jpg) no-repeat center center fixed;
+  height: 100vh;
+  width: auto;
+  background-position: 0% 0%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
 .neato-header {
-  color: #fcc;
+  color: #fff;
   min-width: 20%; 
   max-width: 60%; 
-  padding: 30px;
+  padding: 20px;
   text-align: center;
   position: fixed;
-  left: 50%;
-  top: 51%;
-  border: 3px solid #fcc;
-  border-top: 3px solid #fcc;
+  left: 19%;
+  top: 38.75%;
+  border: 3px solid #fff;
   margin: 5px;
+  background: rgba(0, 0, 0, 0.5); 
+
 }
 
 .neato-header h1 {
-  font-size: 4em;
+  font-size: 3.8em;
   font-family: "Open Sans Condensed";
   text-transform: uppercase;
   letter-spacing: 0.05em;

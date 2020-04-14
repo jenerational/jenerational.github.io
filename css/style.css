@@ -26,15 +26,6 @@ p {
 
 /* LANDING PAGE 
 ------------------------*/ 
-#home {
-  background: url(../ice_skate_landing.jpg) no-repeat center center fixed;
-  height: 100vh;
-  width: auto;
-  background-position: 0% 0%;
-  background-size: 100%;
-  background-repeat: no-repeat;
-  overflow: hidden;
-}
 
 #projects {
   width: 90%; 
