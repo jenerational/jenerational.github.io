@@ -8,8 +8,8 @@ function parallaxFade() {
 		'background-position' : '50% ' + (-scrollPos/3)+"px"
 	});
 	//	header fade
-	$('.head1').css({
-		'margin-top': (scrollPos/6)+"px",
+	$('.fade').css({
+		'margin-top': (scrollPos/3.5)+"px",
 		'opacity': 1-(scrollPos/215)
 	});
 }

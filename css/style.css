@@ -32,7 +32,7 @@ p {
   padding: 5%;
 }
 
-/* RESUME HEAD */
+/* PROJECTS */
 .sectionhead {
   text-align: center;
   position: relative;
@@ -105,7 +105,7 @@ p {
   top: 0%;
   border-color: black;
   margin: 0px;
-  margin-top: 150px;
+  margin-top: 100px;
   margin-bottom: 50px; 
   position: relative;
 
@@ -134,6 +134,7 @@ p {
   color: #f7b2b2;
   text-decoration: none;
 }
+
 
 
 
