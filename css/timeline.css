@@ -2,7 +2,7 @@
 
 .timeline {
   position: relative;
-  width: 660px;
+  width: 51.5%;
   margin: 0 auto;    
   margin-top: 40px;
   padding: 1em 0;
@@ -99,7 +99,7 @@
   margin-top: -10px;
   background: #fff;
   border-radius: 10px;
-  border: 4px solid #faa;
+  border: 4px solid #eaa;
   z-index: 10;
 }
 
@@ -140,7 +140,7 @@
   
   line-height: 1em;
   font-size: 0.66666em;
-  color: #faa;
+  color: #eaa;
   vertical-align: middle;
 }
 
